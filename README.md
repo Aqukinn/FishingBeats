@@ -1,8 +1,8 @@
-# [Game Title]
+# FishingBeats!
 
 ## About This Project
 
-This game was developed as part of my Final Year Project (FYP). Its purpose is to [briefly describe the purpose of the game, its gameplay, and the problem or topic being explored].
+This game was developed as part of my Final Year Project (FYP).
 
 ## Download and Playtest
 
